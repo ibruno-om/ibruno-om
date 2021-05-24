@@ -14,8 +14,8 @@ I'm a full stack developer specializing in Ruby on Rails.
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibruno-om&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=ibruno-om&theme=default" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibruno-om&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=ibruno-om&theme=tokyonight" /></td>
     </tr>   
   </table>
 </center>
